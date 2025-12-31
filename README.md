@@ -28,6 +28,7 @@ Proje klasöründe terminali açın ve gerekli modülleri indirin:
 Bash
 
 go mod tidy
+
 ⚙️ Yapılandırma
 sites.yaml dosyasını kullanarak taranacak siteleri şu formatta belirleyebilirsiniz:
 
