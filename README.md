@@ -31,13 +31,6 @@ go mod tidy
 ⚙️ Yapılandırma
 sites.yaml dosyasını kullanarak taranacak siteleri şu formatta belirleyebilirsiniz:
 
-YAML
-
-sites:
-  - isim: "DuckDuckGo Tor"
-    url: "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfima3ogtwv7a64dtid.onion/"
-  - isim: "Torch Search"
-    url: "http://torch-search.onion/"
 🚀 Kullanım
 Programı çalıştırmadan önce Tor Browser'ın açık olduğundan emin olun.
 
