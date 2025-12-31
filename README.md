@@ -35,8 +35,8 @@ sites.yaml dosyasını kullanarak taranacak siteleri şu formatta belirleyebilir
 Programı çalıştırmadan önce Tor Browser'ın açık olduğundan emin olun.
 
 Bash
-
 go run main.go
+
 📂 Dosya Yapısı
 main.go: Ana uygulama mantığı ve proxy ayarları.
 
